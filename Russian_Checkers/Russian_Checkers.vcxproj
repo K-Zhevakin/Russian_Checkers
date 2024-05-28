@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="game.cpp" />
     <ClCompile Include="Russian_Checkers.cpp" />
   </ItemGroup>
   <ItemGroup>
